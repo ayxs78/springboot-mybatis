@@ -1,4 +1,4 @@
-package com.ayxs.springbootmybatis.bin;
+package com.ayxs.springbootmybatis.bean;
 
 public class Employee {
     private Integer id;
